@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Link
 https://dijsktra-visualiser.herokuapp.com/
-####(Tap on a cell to add a wall at that cell)
+#### (Tap on a cell to add a wall at that cell)
 ## Available Scripts
 
 In the project directory, you can run:
