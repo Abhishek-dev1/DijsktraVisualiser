@@ -1,8 +1,7 @@
-# Getting Started with Create React App
+# Link
+dijsktra-visualizer.netlify.app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## Link
-https://dijsktra-visualiser.herokuapp.com/
+
 #### (Tap on a cell to add a wall at that cell)
 ## Available Scripts
 
