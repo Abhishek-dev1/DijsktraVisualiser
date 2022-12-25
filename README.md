@@ -1,5 +1,5 @@
 # Link
-dijsktra-visualizer.netlify.app
+[DIJSKTRA VISUALISER](https://dijsktra-visualizer.netlify.app/)
 
 
 #### (Tap on a cell to add a wall at that cell)
